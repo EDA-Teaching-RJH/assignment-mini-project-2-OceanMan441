@@ -21,7 +21,5 @@ class Pokemon:
     Height: {self.height}
     Weight: {self.weight}
     Habitat: {self.habitat}
-
-    Description:
-    {self.description}
+    Description: {self.description}
     """
