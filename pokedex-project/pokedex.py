@@ -1,4 +1,5 @@
 import csv
+from fileinput import filename
 from py_compile import main 
 from pokemon import Pokemon
 
@@ -10,6 +11,7 @@ class Pokedex:
     def load_pokemon(self, filename):
         with open(filename, "r") as file:
             reader = csv.DictReader(file)
+            
             for row in reader:
 
                 pokemon = Pokemon(
