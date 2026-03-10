@@ -1,9 +1,12 @@
+id,name,type,species,height,weight,habitat,description
+
 1,Bulbasaur,Grass/Poison,Seed Pokemon,0.7,6.9,Grassland,A strange seed was planted on its back at birth.
 2,Ivysaur,Grass/Poison,Seed Pokemon,1.0,13.0,Grassland,When the bulb on its back grows large it appears to lose the ability to stand.
 3,Venusaur,Grass/Poison,Seed Pokemon,2.0,100.0,Grassland,The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.
 4,Charmander,Fire,Lizard Pokemon,0.6,8.5,Mountain,Obviously prefers hot places. 
-5,Charmeleon,Fire,Flame Pokemon,1.1,19.0,Mountain,When it swings its burning tail it raises the temperature.
+5,Charmeleon,Fire,Flame Pokemon,1.1,19.0,Mountain,When it swings its burning tail, it elevates the temperature to unbearably high levels.
 6,Charizard,Fire/Flying,Flame Pokemon,1.7,90.5,Mountain,Spits fire hot enough to melt boulders.
 7,Squirtle,Water,Tiny Turtle Pokemon,0.5,9.0,Waters Edge,After birth its back swells and hardens into a shell.
 8,Wartortle,Water,Turtle Pokemon,1.0,22.5,Waters Edge,Often hides in water to stalk prey.
 9,Blastoise,Water,Shellfish Pokemon,1.6,85.5,Waters Edge,A brutal Pokemon with pressurized water jets on its shell.
+

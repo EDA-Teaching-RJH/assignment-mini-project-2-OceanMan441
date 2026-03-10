@@ -1,5 +1,6 @@
 from pokedex import Pokedex 
 from utils.search_tools import regex_search
+
 def main(): 
 
     pokedex = Pokedex()
@@ -46,4 +47,5 @@ def main():
             break
     
     if __name__ == "__main__":
+        
         main()
