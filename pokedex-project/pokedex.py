@@ -1,6 +1,6 @@
 import csv 
 
-from utils.pokemon import Pokemon
+from pokemon import Pokemon
 
 class Pokedex:
 
@@ -33,3 +33,9 @@ class Pokedex:
     
     def list_by_type(self, type_name):
     
+        results = []
+        for pokemon in self.pokemon_list:
+            if type_name.lower() in pokemon.type.lower():
+                results.append(pokemon)
+
+        return results

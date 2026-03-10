@@ -1,10 +1,12 @@
 from pokedex import Pokedex 
-from utils.search_tools import regex_search
-
+from utils.regex_search import regex_search
 def main(): 
 
     pokedex = Pokedex()
+
     pokedex.load_pokemon("data/pokemon151.csv")
+
+    print("Pokedes laoded successfully!")
 
     while True:
 
