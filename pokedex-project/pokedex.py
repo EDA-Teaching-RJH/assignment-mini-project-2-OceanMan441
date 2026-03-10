@@ -11,17 +11,17 @@ class Pokedex:
     def load_pokemon(self, filename):
         with open(filename, "r") as file:
             reader = csv.DictReader(file)
-            
+
             for row in reader:
 
                 pokemon = Pokemon(
-                    row["id"],
-                    row["name"],
-                    row["type"],
-                    row["species"],
-                    row["height"],
-                    row["weight"],
-                    row["habitat"],
-                    row["description"]
+                    row["Id"],
+                    row["Name"],
+                    row["Type"],
+                    row["Species"],
+                    row["Height"],
+                    row["Weight"],
+                    row["Habitat"],
+                    row["Description"]
                 )
                 self.pokemon_list.append(pokemon)
