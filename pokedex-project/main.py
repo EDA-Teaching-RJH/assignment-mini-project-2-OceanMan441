@@ -1,3 +1,4 @@
+import os
 from pokedex import Pokedex 
 from utils.search_tools import regex_search
 
@@ -5,7 +6,10 @@ def main():
 
     pokedex = Pokedex()
 
-    pokedex.load_pokemon("./data/pokemon151.csv")
+    base_dir = os.path.dirname(__file__)
+    csv_path = os.path.join(base_dir, "data", "pokemon151.csv")
+
+    pokedex.load_pokemon(csv_path)
 
     while True: 
 
