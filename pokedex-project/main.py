@@ -9,34 +9,32 @@ def main():
 
     print("Pokedex loaded successfully!")
 
-    while True:
+    print("\n--- POKEDEX ---")
+    print("1. Search Pokémon by name")
+    print("2. List Pokémon by type")
+    print("3. Regex search")
+    print("4. Exit")
 
-        print("\n--- POKEDEX ---")
-        print("1. Search Pokémon by name")
-        print("2. List Pokémon by type")
-        print("3. Regex search")
-        print("4. Exit")
-
-        choice = input("Choose option: ")
+    choice = input("Choose option: ")
     
-        if choice == "1":
+    if choice == "1":
 
-            name = input("Enter Pokémon name: ")
+        name = input("Enter Pokémon name: ")
 
-            pokemon = pokedex.search_pokemon_by_name(name)
+        pokemon = pokedex.search_pokemon_by_name(name)
 
-            if pokemon:
-                pokemon.display_info()
+        if pokemon:
+            pokemon.display_info()
 
-            else:
-                print("Pokémon not found.")
+        else:
+            print("Pokémon not found.")
 
-        elif choice == "2":
-            type = input("Enter Pokémon type: ")
-            pokemon_list = pokedex.list_pokemon_by_type(type)
-            if pokemon_list:
-                for pokemon in pokemon_list:
-                    print(pokemon.display_info())
+    elif choice == "2":
+        type = input("Enter Pokémon type: ")
+        pokemon_list = pokedex.list_pokemon_by_type(type)
+        if pokemon_list:
+            for pokemon in pokemon_list:
+                print(pokemon.display_info())
             else:
                 print("No Pokémon found with that type.")
         elif choice == "3":
@@ -48,7 +46,7 @@ def main():
 
         elif choice == "3":
 
-            break
+                print("Exiting Pokedex. Goodbye!")
     
     if __name__ == "__main__":
         main()
