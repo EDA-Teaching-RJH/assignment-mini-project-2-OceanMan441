@@ -1,4 +1,4 @@
-id,name,type,species,height,weight,habitat,description
+Id,Name,Type,Species,Height,Weight,Habitat,Description
 
 1,Bulbasaur,Grass/Poison,Seed Pokemon,0.7,6.9,Grassland,A strange seed was planted on its back at birth.
 2,Ivysaur,Grass/Poison,Seed Pokemon,1.0,13.0,Grassland,When the bulb on its back grows large it appears to lose the ability to stand.
