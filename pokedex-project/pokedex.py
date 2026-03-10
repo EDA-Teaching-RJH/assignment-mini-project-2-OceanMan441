@@ -26,9 +26,8 @@ class Pokedex:
                 )
                 
                 self.pokemon_list.append(pokemon)
-
-
-def search_pokemon_by_name(self, name):
+                
+    def search_pokemon_by_name(self, name):
         for pokemon in self.pokemon_list:
             if pokemon.name.lower() == name.lower():
                 return pokemon
