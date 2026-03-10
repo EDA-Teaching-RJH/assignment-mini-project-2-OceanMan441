@@ -24,7 +24,7 @@ class Pokedex:
                     row["Habitat"],
                     row["Description"]
                 )
-                
+
                 self.pokemon_list.append(pokemon)
                 
     def search_pokemon_by_name(self, name):
@@ -32,4 +32,6 @@ class Pokedex:
             if pokemon.name.lower() == name.lower():
                 return pokemon
         return None
+    
+    print("pokedex loaded")
     
