@@ -5,7 +5,7 @@ def main():
 
     pokedex = Pokedex()
 
-    pokedex.load_pokemon("data/pokemon151.csv")
+    pokedex.load_pokemon("./data/pokemon151.csv")
 
     while True: 
 
@@ -44,7 +44,7 @@ def main():
             for p in results:
                 print(p.name)
 
-        elif choice == "3":
+        elif choice == "4":
 
                 print("Exiting Pokedex. Goodbye!")
                 break
