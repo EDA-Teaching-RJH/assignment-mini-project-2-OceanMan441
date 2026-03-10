@@ -5,7 +5,7 @@ def main():
 
     pokedex = Pokedex()
 
-    pokedex.load_pokemon("pokemon151.csv")
+    pokedex.load_pokemon("data/pokemon151.csv")
 
     while True: 
 
