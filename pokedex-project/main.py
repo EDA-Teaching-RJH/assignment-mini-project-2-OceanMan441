@@ -32,7 +32,6 @@ def main():
                 print("Pokémon not found.")
 
         elif choice == "2":
-            
             type = input("Enter Pokémon type: ")
             pokemon_list = pokedex.list_pokemon_by_type(type)
             if pokemon_list:
