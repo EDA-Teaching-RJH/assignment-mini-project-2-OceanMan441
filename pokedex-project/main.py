@@ -7,7 +7,7 @@ def main():
 
     pokedex.load_pokemon("data/pokemon151.csv")
 
-    print("Pokedes laoded successfully!")
+    print("Pokedex loaded successfully!")
 
     while True:
 
