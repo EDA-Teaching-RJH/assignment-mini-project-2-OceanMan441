@@ -14,14 +14,14 @@ class Pokemon:
 
         return f"""
 
-ID: {self.id}
-Name: {self.name}
-Type: {self.type}
-Species: {self.species}
-Height: {self.height}
-Weight: {self.weight}
-Habitat: {self.habitat}
+    ID: {self.id}
+    Name: {self.name}
+    Type: {self.type}
+    Species: {self.species}
+    Height: {self.height}
+    Weight: {self.weight}
+    Habitat: {self.habitat}
 
-Description:
-{self.description}
-"""
+    Description:
+    {self.description}
+    """
