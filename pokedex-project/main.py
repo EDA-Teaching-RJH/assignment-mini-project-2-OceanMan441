@@ -20,14 +20,19 @@ def main():
         choice = input("Choose option: ")
     
         if choice == "1":
+
             name = input("Enter Pokémon name: ")
+
             pokemon = pokedex.search_pokemon_by_name(name)
+
             if pokemon:
-                print(pokemon.display_info())
+                pokemon.display_info()
+
             else:
                 print("Pokémon not found.")
 
         elif choice == "2":
+            
             type = input("Enter Pokémon type: ")
             pokemon_list = pokedex.list_pokemon_by_type(type)
             if pokemon_list:
@@ -47,5 +52,4 @@ def main():
             break
     
     if __name__ == "__main__":
-        
         main()
