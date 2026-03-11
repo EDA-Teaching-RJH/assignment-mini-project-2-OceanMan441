@@ -18,7 +18,10 @@ def main():
         print("1. Search Pokémon by name")
         print("2. List Pokémon by type")
         print("3. Regex search")
-        print("4. Exit")
+        print("4. Add Pokémon to team")
+        print("5. Remove Pokémon from team")
+        print("6. Show team")
+        print("7. Exit")
 
         choice = input("Choose option: ")
     
@@ -50,9 +53,27 @@ def main():
                 print(p.name)
 
         elif choice == "4":
+            name = input("Enter Pokémon name to add: ")
+            pokemon = pokedex.search_pokemon_by_name(name)
 
-                print("Exiting Pokedex. Goodbye!")
-                break
+            if pokemon:
+                team.add_pokemon(pokemon)
+            else:
+                print("Pokémon not found.")
+
+
+        elif choice == "5":
+            name = input("Enter Pokémon name to remove: ")
+            team.remove_pokemon(name)
+
+        
+        elif choice == "6":
+            team.show_team()
+
+
+        elif choice == "7":
+            print("Exiting Pokedex. Goodbye!")
+            break
     
 if __name__ == "__main__":
      main()
