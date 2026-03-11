@@ -8,7 +8,7 @@ class Pokemon:
         self.height = height
         self.weight = weight
         self.habitat = habitat
-        self.descrition = description 
+        self.description = description
 
     def display_info(self):
 
