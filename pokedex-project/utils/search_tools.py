@@ -17,12 +17,11 @@ def regex_search(pokemon_list, pattern):
 
 def search_by_type(pokemon_list, search_type):
     """
-    Searches the list of Pokémon by type(s), ignoring order, spaces, and case.
-    search_type: string like "Fire, Flying"
-    Returns a list of matching Pokémon.
+    Searches Pokémon by type(s), ignoring order, spaces, and case.
+    Use '/' as a separator in input, e.g., 'Fire/Flying'.
     """
 
-    search_set = set(t.strip().capitalize() for t in search_type.split(','))
+    search_set = set(t.strip().capitalize() for t in search_type.split('/'))
 
     results = []
     for pokemon in pokemon_list:
