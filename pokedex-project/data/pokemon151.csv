@@ -50,7 +50,7 @@ Id,Name,Type,Species,Height,Weight,Habitat,Description
 48,Venonat,Bug/Poison,Insect Pokémon,1.0 m,30.0 kg,Forest,Large eyes act as radar.
 49,Venomoth,Bug/Poison,Poison Moth Pokémon,1.5 m,12.5 kg,Forest,Wings scatter poisonous dust.
 50,Diglett,Ground,Mole Pokémon,0.2 m,0.8 kg,Cave,Burrows underground.
-51, Dugtrio, Ground, Mole Pokémon, 0.7 m, 33.3 kg, Cave, Three Diglett working together.
+51,Dugtrio, Ground, Mole Pokémon, 0.7 m, 33.3 kg, Cave, Three Diglett working together.
 52,Meowth,Normal,Scratch Cat Pokémon,0.4 m,4.2 kg,Urban,Loves shiny coins and collects them.
 53,Persian,Normal,Classy Cat Pokémon,1.0 m,32.0 kg,Urban,Very elegant but quick to anger.
 54,Psyduck,Water,Duck Pokémon,0.8 m,19.6 kg,Waters Edge,Constant headaches give it strange powers.
