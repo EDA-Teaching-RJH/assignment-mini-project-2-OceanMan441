@@ -1,6 +1,6 @@
 import os
 from pokedex import Pokedex 
-from utils.search_tools import regex_search
+from utils.search_tools import regex_search, search_by_type
 from team import Team
 
 def main(): 
@@ -37,15 +37,17 @@ def main():
                 print("Pokémon not found.")
 
         elif choice == "2":
-            type = input("Enter Pokémon type: ")
-            pokemon_list = pokedex.list_pokemon_by_type(type)
+           
+            type_input = input("Enter Pokémon type(s) (comma separated if multiple): ")
+            pokemon_list = search_by_type(pokedex.pokemon_list, type_input)
 
             if pokemon_list:
                 for pokemon in pokemon_list:
                     pokemon.display_info()
             else:
-                print("No Pokémon found with that type.")
+                print("No Pokémon found with that type combination.")
 
+        
         elif choice == "3":
             pattern = input("Enter regex pattern: ")
             results =  regex_search(pokedex.pokemon_list, pattern)
