@@ -33,5 +33,11 @@ class Pokedex:
                 return pokemon
         return None
     
-    print("pokedex loaded")
+    def list_pokemon_by_type(self, poke_type):
+        results = []
+
+        for pokemon in self.pokemon_list:
+            if poke_type.lower() in pokemon.type.lower():
+                results.append(pokemon)
+        return results
     
