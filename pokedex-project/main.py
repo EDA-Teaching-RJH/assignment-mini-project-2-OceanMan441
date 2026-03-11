@@ -53,6 +53,5 @@ def main():
                 print("Exiting Pokedex. Goodbye!")
                 break
     
-    
 if __name__ == "__main__":
      main()
