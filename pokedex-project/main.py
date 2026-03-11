@@ -35,9 +35,9 @@ def main():
             type = input("Enter Pokémon type: ")
             pokemon_list = pokedex.list_pokemon_by_type(type)
 
-        if pokemon_list:
-            for pokemon in pokemon_list:
-                 pokemon.display_info()
+            if pokemon_list:
+                for pokemon in pokemon_list:
+                    pokemon.display_info()
             else:
                 print("No Pokémon found with that type.")
 
