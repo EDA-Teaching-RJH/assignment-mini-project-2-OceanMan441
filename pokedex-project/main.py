@@ -5,6 +5,7 @@ from utils.search_tools import regex_search
 def main(): 
 
     pokedex = Pokedex()
+    team = Team()
 
     base_dir = os.path.dirname(__file__)
     csv_path = os.path.join(base_dir, "data", "pokemon151.csv")
