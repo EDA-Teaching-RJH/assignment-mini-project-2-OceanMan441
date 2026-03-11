@@ -1,6 +1,7 @@
 import os
 from pokedex import Pokedex 
 from utils.search_tools import regex_search
+from team import Team
 
 def main(): 
 
