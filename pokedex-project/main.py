@@ -38,7 +38,7 @@ def main():
 
         elif choice == "2":
            
-            type_input = input("Enter Pokémon type(s) (comma separated if multiple): ")
+            type_input = input("Enter Pokémon type(s): ")
             pokemon_list = search_by_type(pokedex.pokemon_list, type_input)
 
             if pokemon_list:
