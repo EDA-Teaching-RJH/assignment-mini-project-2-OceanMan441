@@ -9,4 +9,144 @@ Id,Name,Type,Species,Height,Weight,Habitat,Description
 7,Squirtle,Water,Tiny Turtle Pokemon,0.5,9.0,Waters Edge,After birth its back swells and hardens into a shell.
 8,Wartortle,Water,Turtle Pokemon,1.0,22.5,Waters Edge,Often hides in water to stalk prey.
 9,Blastoise,Water,Shellfish Pokemon,1.6,85.5,Waters Edge,A brutal Pokemon with pressurized water jets on its shell.
-
+10,Caterpie,Bug,Worm Pokémon,0.3 m,2.9 kg,Forest,Its short feet are tipped with suction pads.
+11,Metapod,Bug,Cocoon Pokémon,0.7 m,9.9 kg,Forest,Hardens its shell to protect itself.
+12,Butterfree,Bug/Flying,Butterfly Pokémon,1.1 m,32.0 kg,Forest,In battle it flaps its wings to release poison dust.
+13,Weedle,Bug/Poison,Hairy Bug Pokémon,0.3 m,3.2 kg,Forest,Often found in forests eating leaves.
+14,Kakuna,Bug/Poison,Cocoon Pokémon,0.6 m,10.0 kg,Forest,Almost incapable of moving.
+15,Beedrill,Bug/Poison,Poison Bee Pokémon,1.0 m,29.5 kg,Forest,Flies at high speed and attacks with stingers.
+16,Pidgey,Normal/Flying,Tiny Bird Pokémon,0.3 m,1.8 kg,Forest,Very docile and prefers to avoid conflict.
+17,Pidgeotto,Normal/Flying,Bird Pokémon,1.1 m,30.0 kg,Forest,Very protective of its territory.
+18,Pidgeot,Normal/Flying,Bird Pokémon,1.5 m,39.5 kg,Forest,Its wings are capable of stirring up dust storms.
+19,Rattata,Normal,Mouse Pokémon,0.3 m,3.5 kg,Grassland,Bites anything when it attacks.
+20,Raticate,Normal,Mouse Pokémon,0.7 m,18.5 kg,Grassland,Its hind feet are webbed.
+21,Spearow,Normal/Flying,Tiny Bird Pokémon,0.3 m,2.0 kg,Grassland,Eats bugs in grassy areas.
+22,Fearow,Normal/Flying,Beak Pokémon,1.2 m,38.0 kg,Grassland,Flies high above searching for prey.
+23,Ekans,Poison,Snake Pokémon,2.0 m,6.9 kg,Grassland,Moves silently and stealthily.
+24,Arbok,Poison,Cobra Pokémon,3.5 m,65.0 kg,Grassland,The patterns on its belly resemble a scary face.
+25,Pikachu,Electric,Mouse Pokémon,0.4 m,6.0 kg,Forest,When several gather their electricity can build.
+26,Raichu,Electric,Mouse Pokémon,0.8 m,30.0 kg,Forest,Its long tail grounds electricity.
+27,Sandshrew,Ground,Mouse Pokémon,0.6 m,12.0 kg,Desert,Burrows deep underground in dry areas.
+28,Sandslash,Ground,Mouse Pokémon,1.0 m,29.5 kg,Desert,Curls into a spiny ball when threatened.
+29,Nidoran♀,Poison,Poison Pin Pokémon,0.4 m,7.0 kg,Grassland,Although small its barbs secrete poison.
+30,Nidorina,Poison,Poison Pin Pokémon,0.8 m,20.0 kg,Grassland,The female is more docile.
+31,Nidoqueen,Poison/Ground,Drill Pokémon,1.3 m,60.0 kg,Grassland,Uses its hard scales for protection.
+32,Nidoran♂,Poison,Poison Pin Pokémon,0.5 m,9.0 kg,Grassland,Stiffens its ears to sense danger.
+33,Nidorino,Poison,Poison Pin Pokémon,0.9 m,19.5 kg,Grassland,Aggressive and quick to attack.
+34,Nidoking,Poison/Ground,Drill Pokémon,1.4 m,62.0 kg,Grassland,Uses its powerful tail in battle.
+35,Clefairy,Fairy,Fairy Pokémon,0.6 m,7.5 kg,Mountain,Often seen dancing in moonlight.
+36,Clefable,Fairy,Fairy Pokémon,1.3 m,40.0 kg,Mountain,Very protective of its environment.
+37,Vulpix,Fire,Fox Pokémon,0.6 m,9.9 kg,Grassland,Its six tails grow hotter with age.
+38,Ninetales,Fire,Fox Pokémon,1.1 m,19.9 kg,Grassland,Said to live a thousand years.
+39,Jigglypuff,Normal/Fairy,Balloon Pokémon,0.5 m,5.5 kg,Grassland,Sings lullabies that put foes to sleep.
+40,Wigglytuff,Normal/Fairy,Balloon Pokémon,1.0 m,12.0 kg,Grassland,Its body is soft and rubbery.
+41,Zubat,Poison/Flying,Bat Pokémon,0.8 m,7.5 kg,Cave,Emits ultrasonic cries to check surroundings.
+42,Golbat,Poison/Flying,Bat Pokémon,1.6 m,55.0 kg,Cave,Attacks in swarms when hungry.
+43,Oddish,Grass/Poison,Weed Pokémon,0.5 m,5.4 kg,Grassland,Often planted in soil during the day.
+44,Gloom,Grass/Poison,Weed Pokémon,0.8 m,8.6 kg,Grassland,Produces a horrible smell.
+45,Vileplume,Grass/Poison,Flower Pokémon,1.2 m,18.6 kg,Grassland,Its petals scatter toxic pollen.
+46,Paras,Bug/Grass,Mushroom Pokémon,0.3 m,5.4 kg,Forest,Mushrooms grow on its back.
+47,Parasect,Bug/Grass,Mushroom Pokémon,1.0 m,29.5 kg,Forest,The mushroom controls the host.
+48,Venonat,Bug/Poison,Insect Pokémon,1.0 m,30.0 kg,Forest,Large eyes act as radar.
+49,Venomoth,Bug/Poison,Poison Moth Pokémon,1.5 m,12.5 kg,Forest,Wings scatter poisonous dust.
+50,Diglett,Ground,Mole Pokémon,0.2 m,0.8 kg,Cave,Burrows underground.
+51,Dug52,Meowth,Normal,Scratch Cat Pokémon,0.4 m,4.2 kg,Urban,Loves shiny coins and collects them.
+53,Persian,Normal,Classy Cat Pokémon,1.0 m,32.0 kg,Urban,Very elegant but quick to anger.
+54,Psyduck,Water,Duck Pokémon,0.8 m,19.6 kg,Waters Edge,Constant headaches give it strange powers.
+55,Golduck,Water,Duck Pokémon,1.7 m,76.6 kg,Waters Edge,A strong swimmer that lives in rivers.
+56,Mankey,Fighting,Pig Monkey Pokémon,0.5 m,28.0 kg,Mountain,Easily angered and very aggressive.
+57,Primeape,Fighting,Pig Monkey Pokémon,1.0 m,32.0 kg,Mountain,Becomes uncontrollably furious.
+58,Growlithe,Fire,Puppy Pokémon,0.7 m,19.0 kg,Grassland,Very loyal to its trainer.
+59,Arcanine,Fire,Legendary Pokémon,1.9 m,155.0 kg,Grassland,Known for its incredible speed.
+60,Poliwag,Water,Tadpole Pokémon,0.6 m,12.4 kg,Waters Edge,The spiral on its belly is its intestines.
+61,Poliwhirl,Water,Tadpole Pokémon,1.0 m,20.0 kg,Waters Edge,Capable of living in or out of water.
+62,Poliwrath,Water/Fighting,Tadpole Pokémon,1.3 m,54.0 kg,Waters Edge,An excellent swimmer with powerful muscles.
+63,Abra,Psychic,Psi Pokémon,0.9 m,19.5 kg,Urban,Sleeps 18 hours a day.
+64,Kadabra,Psychic,Psi Pokémon,1.3 m,56.5 kg,Urban,Uses psychic power in battle.
+65,Alakazam,Psychic,Psi Pokémon,1.5 m,48.0 kg,Urban,Its brain continually grows.
+66,Machop,Fighting,Superpower Pokémon,0.8 m,19.5 kg,Mountain,Always trains to become stronger.
+67,Machoke,Fighting,Superpower Pokémon,1.5 m,70.5 kg,Mountain,Muscular body used for heavy labor.
+68,Machamp,Fighting,Superpower Pokémon,1.6 m,130.0 kg,Mountain,Uses its four arms to attack rapidly.
+69,Bellsprout,Grass/Poison,Flower Pokémon,0.7 m,4.0 kg,Forest,Prefers hot and humid places.
+70,Weepinbell,Grass/Poison,Flycatcher Pokémon,1.0 m,6.4 kg,Forest,Spits poison powder to immobilize prey.
+71,Victreebel,Grass/Poison,Flycatcher Pokémon,1.7 m,15.5 kg,Forest,Lures prey with sweet aroma.
+72,Tentacool,Water/Poison,Jellyfish Pokémon,0.9 m,45.5 kg,Sea,Drifts in shallow seas.
+73,Tentacruel,Water/Poison,Jellyfish Pokémon,1.6 m,55.0 kg,Sea,Its tentacles can ensnare prey.
+74,Geodude,Rock/Ground,Rock Pokémon,0.4 m,20.0 kg,Mountain,Often mistaken for stones.
+75,Graveler,Rock/Ground,Rock Pokémon,1.0 m,105.0 kg,Mountain,Rolls down slopes to move.
+76,Golem,Rock/Ground,Megaton Pokémon,1.4 m,300.0 kg,Mountain,Its shell is extremely tough.
+77,Ponyta,Fire,Fire Horse Pokémon,1.0 m,30.0 kg,Grassland,Its mane burns brightly.
+78,Rapidash,Fire,Fire Horse Pokémon,1.7 m,95.0 kg,Grassland,Known for blazing speed.
+79,Slowpoke,Water/Psychic,Dopey Pokémon,1.2 m,36.0 kg,Waters Edge,Very slow and relaxed.
+80,Slowbro,Water/Psychic,Hermit Crab Pokémon,1.6 m,78.5 kg,Waters Edge,A Shellder clamps onto its tail.
+81,Magnemite,Electric/Steel,Magnet Pokémon,0.3 m,6.0 kg,Urban,Uses magnetism to float.
+82,Magneton,Electric/Steel,Magnet Pokémon,1.0 m,60.0 kg,Urban,Three Magnemite linked together.
+83,Farfetch’d,Normal/Flying,Wild Duck Pokémon,0.8 m,15.0 kg,Grassland,Always carries a leek stalk.
+84,Doduo,Normal/Flying,Twin Bird Pokémon,1.4 m,39.2 kg,Grassland,Two heads share one body.
+85,Dodrio,Normal/Flying,Triple Bird Pokémon,1.8 m,85.2 kg,Grassland,Three heads think independently.
+86,Seel,Water,Sea Lion Pokémon,1.1 m,90.0 kg,Sea,Loves icy waters.
+87,Dewgong,Water/Ice,Sea Lion Pokémon,1.7 m,120.0 kg,Sea,Swims gracefully in cold seas.
+88,Grimer,Poison,Sludge Pokémon,0.9 m,30.0 kg,Urban,Formed from polluted sludge.
+89,Muk,Poison,Sludge Pokémon,1.2 m,30.0 kg,Urban,Extremely toxic and foul smelling.
+90,Shellder,Water,Bivalve Pokémon,0.3 m,4.0 kg,Sea,Protected by a hard shell.
+91,Cloyster,Water/Ice,Bivalve Pokémon,1.5 m,132.5 kg,Sea,Its shell is extremely hard.
+92,Gastly,Ghost/Poison,Gas Pokémon,1.3 m,0.1 kg,Cave,A ghost made mostly of gas.
+93,Haunter,Ghost/Poison,Gas Pokémon,1.6 m,0.1 kg,Cave,Lurks in dark corners.
+94,Gengar,Ghost/Poison,Shadow Pokémon,1.5 m,40.5 kg,Cave,Hides in shadows.
+95,Onix,Rock/Ground,Rock Snake Pokémon,8.8 m,210.0 kg,Cave,Burrows through the ground.
+96,Drowzee,Psychic,Hypnosis Pokémon,1.0 m,32.4 kg,Urban,Feeds on dreams.
+97,Hypno,Psychic,Hypnosis Pokémon,1.6 m,75.6 kg,Urban,Uses a pendulum to hypnotize.
+98,Krabby,Water,River Crab Pokémon,0.4 m,6.5 kg,Sea,Uses pincers in battle.
+99,Kingler,Water,Pincer Pokémon,1.3 m,60.0 kg,Sea,One claw grows much larger.
+100,Voltorb,Electric,Ball Pokémon,0.5 m,10.4 kg,Urban,Looks like a Poké Ball.
+101,Electrode,Electric,Ball Pokémon,1.2 m,66.6 kg,Urban,Its body is highly unstable.
+102,Exeggcute,Grass/Psychic,Egg Pokémon,0.4 m,2.5 kg,Forest,Its eggs are highly nutritious.
+103,Exeggutor,Grass/Psychic,Egg Pokémon,2.0 m,120.0 kg,Forest,Its heads can think independently.
+104,Cubone,Ground,Marsupilami Pokémon,0.4 m,6.5 kg,Mountain,Avoids fighting with its own kind.
+105,Marowak,Ground,Marsupilami Pokémon,1.0 m,45.0 kg,Mountain,Holds a bone as a weapon.
+106,Hitmonlee,Fighting,Kick King Pokémon,1.3 m,49.8 kg,Urban,Loves to train in the mountains.
+107,Hitmonchan,Fighting,Punching Pokémon,1.4 m,50.2 kg,Urban,Known for its powerful punches.
+108,Lickitung,Bug/Normal,Licking Pokémon,1.2 m,65.5 kg,Urban,Able to lick anything with its long tongue.
+109,Koffing,Poison,Poison Gas Pokémon,0.6 m,1.0 kg,Urban,Filled with toxic gases.
+110,Weezing,Poison,Poison Gas Pokémon,1.2 m,9.5 kg,Urban,Two Koffing fused together.
+111,Rhyhorn,Ground/Rock,Spikes Pokémon,1.0 m,115.0 kg,Mountain,Charges without looking where it is going.
+112,Rhydon,Ground/Rock,Drill Pokémon,1.9 m,120.0 kg,Mountain,Uses its horn to drill through rock.
+113,Chansey,Normal,Egg Pokémon,1.1 m,34.6 kg,Urban,Known for carrying healing eggs.
+114,Tangela,Grass,Vine Pokémon,1.0 m,35.0 kg,Forest,Its body is covered with blue vines.
+115,Kangaskhan,Normal,Parent Pokémon,2.2 m,80.0 kg,Grassland,Carries its baby in a pouch.
+116,Horsea,Water,Dragon Pokémon,0.4 m,8.0 kg,Sea,Squirts ink to escape enemies.
+117,Seadra,Water,Dragon Pokémon,1.2 m,25.0 kg,Sea,Spines contain venom.
+118,Goldeen,Water,Goldfish Pokémon,0.6 m,15.0 kg,Waters Edge,Gracefully swims through water.
+119,Seaking,Water,Goldfish Pokémon,1.3 m,39.0 kg,Waters Edge,Uses its horn to dig riverbeds.
+120,Staryu,Water,Starshape Pokémon,0.8 m,34.5 kg,Sea,Its center core glows brightly.
+121,Starmie,Water/Psychic,Mysterious Pokémon,1.1 m,80.0 kg,Sea,Core flashes with rainbow colors.
+122,Mr. Mime,Psychic/Fairy,Barrier Pokémon,1.3 m,54.5 kg,Urban,Creates invisible walls.
+123,Scyther,Bug/Flying,Mantis Pokémon,1.5 m,56.0 kg,Forest,Extremely fast with sharp scythes.
+124,Jynx,Ice/Psychic,Human Shape Pokémon,1.4 m,40.6 kg,Mountain,Moves rhythmically like dancing.
+125,Electabuzz,Electric,Electric Pokémon,1.1 m,30.0 kg,Power Plant,Generates powerful electricity.
+126,Magmar,Fire,Spitfire Pokémon,1.3 m,44.5 kg,Volcano,Body burns like molten lava.
+127,Pinsir,Bug,Stag Beetle Pokémon,1.5 m,55.0 kg,Forest,Crushes opponents with its horns.
+128,Tauros,Normal,Wild Bull Pokémon,1.4 m,88.4 kg,Grassland,Becomes violent if its tail is touched.
+129,Magikarp,Water,Fish Pokémon,0.9 m,10.0 kg,Sea,Weak and nearly useless in battle.
+130,Gyarados,Water/Flying,Atrocious Pokémon,6.5 m,235.0 kg,Sea,A ferocious Pokémon with destructive power.
+131,Lapras,Water/Ice,Transport Pokémon,2.5 m,220.0 kg,Sea,Kind Pokémon used to ferry people.
+132,Ditto,Normal,Transform Pokémon,0.3 m,4.0 kg,Urban,Can transform into anything it sees.
+133,Eevee,Normal,Evolution Pokémon,0.3 m,6.5 kg,Urban,Its genes allow many evolutions.
+134,Vaporeon,Water,Bubble Jet Pokémon,1.0 m,29.0 kg,Sea,Can melt into water.
+135,Jolteon,Electric,Lightning Pokémon,0.8 m,24.5 kg,Urban,Fires lightning-like spikes.
+136,Flareon,Fire,Flame Pokémon,0.9 m,25.0 kg,Urban,Stores heat in its fluffy fur.
+137,Porygon,Normal,Virtual Pokémon,0.8 m,36.5 kg,Urban,A Pokémon made of computer code.
+138,Omanyte,Rock/Water,Spiral Pokémon,0.4 m,7.5 kg,Sea,Revived from ancient fossils.
+139,Omastar,Rock/Water,Spiral Pokémon,1.0 m,35.0 kg,Sea,Uses its tentacles to capture prey.
+140,Kabuto,Rock/Water,Shellfish Pokémon,0.5 m,11.5 kg,Sea,Ancient Pokémon revived from fossils.
+141,Kabutops,Rock/Water,Shellfish Pokémon,1.3 m,40.5 kg,Sea,Uses scythes to cut prey.
+142,Aerodactyl,Rock/Flying,Fossil Pokémon,1.8 m,59.0 kg,Mountain,Ancient Pokémon revived from amber.
+143,Snorlax,Normal,Sleeping Pokémon,2.1 m,460.0 kg,Mountain,Sleeps almost all day.
+144,Articuno,Ice/Flying,Freeze Pokémon,1.7 m,55.4 kg,Mountain,A legendary bird of ice.
+145,Zapdos,Electric/Flying,Electric Pokémon,1.6 m,52.6 kg,Mountain,A legendary bird of lightning.
+146,Moltres,Fire/Flying,Flame Pokémon,2.0 m,60.0 kg,Mountain,A legendary bird of fire.
+147,Dratini,Dragon,Dragon Pokémon,1.8 m,3.3 kg,Sea,Rare dragon Pokémon that lives in water.
+148,Dragonair,Dragon,Dragon Pokémon,4.0 m,16.5 kg,Sea,Known for its elegant body.
+149,Dragonite,Dragon/Flying,Dragon Pokémon,2.2 m,210.0 kg,Sea,Kind but powerful dragon.
+150,Mewtwo,Psychic,Genetic Pokémon,2.0 m,122.0 kg,Lab,A powerful Pokémon created by science.
+151,Mew,Psychic,New Species Pokémon,0.4 m,4.0 kg,Forest,A mythical Pokémon said to contain all DNA.
