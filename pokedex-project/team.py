@@ -3,7 +3,7 @@ class Team:
         self.team = []
 
     def add_pokemon(self, pokemon):
-        if len(self.team) <= 6:
+        if len(self.team) >= 6:
             print("Your team already has 6 Pokémon.")
             return 
         
