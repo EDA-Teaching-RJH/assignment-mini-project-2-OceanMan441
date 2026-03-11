@@ -26,8 +26,8 @@ def search_by_type(pokemon_list, search_type):
 
     results = []
     for pokemon in pokemon_list:
-        # Convert Pokémon's type string into a set
-        pokemon_set = set(t.strip().capitalize() for t in pokemon.type.split(','))
+        pokemon_set = set([t.strip().capitalize() for t in pokemon.type])  
+
         if pokemon_set == search_set:
             results.append(pokemon)
 
