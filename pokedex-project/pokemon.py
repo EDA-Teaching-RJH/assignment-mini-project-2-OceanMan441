@@ -17,7 +17,7 @@ class Pokemon:
 
     ID: {self.id}
     Name: {self.name}
-    Type: {self.type}
+    Type: {type_display}
     Species: {self.species}
     Height: {self.height}
     Weight: {self.weight}
