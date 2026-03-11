@@ -28,7 +28,6 @@ def main():
 
             if pokemon:
                 pokemon.display_info()
-
             else:
                 print("Pokémon not found.")
 
@@ -38,9 +37,10 @@ def main():
 
         if pokemon_list:
             for pokemon in pokemon_list:
-                print(pokemon.display_info())
+                 pokemon.display_info()
             else:
                 print("No Pokémon found with that type.")
+
         elif choice == "3":
             pattern = input("Enter regex pattern: ")
             results =  regex_search(pokedex.pokemon_list, pattern)
@@ -52,9 +52,7 @@ def main():
 
                 print("Exiting Pokedex. Goodbye!")
                 break
-        else:
-                print("Exting Pokedex. Goodbye!")
     
-
+    
 if __name__ == "__main__":
      main()
