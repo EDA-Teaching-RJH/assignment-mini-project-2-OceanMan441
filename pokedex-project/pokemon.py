@@ -12,7 +12,7 @@ class Pokemon:
 
     def display_info(self):
 
-        return f"""
+        print (f"""
 
     ID: {self.id}
     Name: {self.name}
@@ -22,4 +22,4 @@ class Pokemon:
     Weight: {self.weight}
     Habitat: {self.habitat}
     Description: {self.description}
-    """
+    """)
